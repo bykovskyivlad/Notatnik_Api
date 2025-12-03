@@ -1,0 +1,8 @@
+C:\Users\vlady\source\repos\Notatnik_Api\Notatnik_Api\obj\Debug\net8.0\Notatnik_Api.csproj.AssemblyReference.cache
+C:\Users\vlady\source\repos\Notatnik_Api\Notatnik_Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\vlady\source\repos\Notatnik_Api\Notatnik_Api\obj\Debug\net8.0\Notatnik_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlady\source\repos\Notatnik_Api\Notatnik_Api\obj\Debug\net8.0\Notatnik_Api.AssemblyInfoInputs.cache
+C:\Users\vlady\source\repos\Notatnik_Api\Notatnik_Api\obj\Debug\net8.0\Notatnik_Api.AssemblyInfo.cs
+C:\Users\vlady\source\repos\Notatnik_Api\Notatnik_Api\obj\Debug\net8.0\Notatnik_Api.csproj.CoreCompileInputs.cache
+C:\Users\vlady\source\repos\Notatnik_Api\Notatnik_Api\obj\Debug\net8.0\Notatnik_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vlady\source\repos\Notatnik_Api\Notatnik_Api\obj\Debug\net8.0\Notatnik_Api.MvcApplicationPartsAssemblyInfo.cache
