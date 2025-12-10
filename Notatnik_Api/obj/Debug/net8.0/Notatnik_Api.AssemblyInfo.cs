@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Notatnik_Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39d383e7539f25f51743cfb4731da37d1c4ed601")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca68ddadae157de528ab62954a6e5b608172e224")]
 [assembly: System.Reflection.AssemblyProductAttribute("Notatnik_Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Notatnik_Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
