@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\vlady\\source\\repos\\Notatnik_Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|c:\\users\\vlady\\source\\repos\\notatnik_api\\notatnik_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|solutionrelative:notatnik_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|c:\\users\\vlady\\source\\repos\\notatnik_api\\notatnik_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|solutionrelative:notatnik_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|c:\\users\\vlady\\source\\repos\\notatnik_api\\notatnik_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|solutionrelative:notatnik_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|c:\\users\\vlady\\source\\repos\\notatnik_api\\notatnik_api\\dtos\\updatenote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|solutionrelative:notatnik_api\\dtos\\updatenote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|c:\\users\\vlady\\source\\repos\\notatnik_api\\notatnik_api\\dtos\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|solutionrelative:notatnik_api\\dtos\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|c:\\users\\vlady\\source\\repos\\notatnik_api\\notatnik_api\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|solutionrelative:notatnik_api\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|c:\\users\\vlady\\source\\repos\\notatnik_api\\notatnik_api\\dtos\\createnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|solutionrelative:notatnik_api\\dtos\\createnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|c:\\users\\vlady\\source\\repos\\notatnik_api\\notatnik_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|solutionrelative:notatnik_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|c:\\users\\vlady\\source\\repos\\notatnik_api\\notatnik_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|solutionrelative:notatnik_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|c:\\users\\vlady\\source\\repos\\notatnik_api\\notatnik_api\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|solutionrelative:notatnik_api\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|c:\\users\\vlady\\source\\repos\\notatnik_api\\notatnik_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|solutionrelative:notatnik_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|c:\\users\\vlady\\source\\repos\\notatnik_api\\notatnik_api\\dtos\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|solutionrelative:notatnik_api\\dtos\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|c:\\users\\vlady\\source\\repos\\notatnik_api\\notatnik_api\\dtos\\updatenote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|solutionrelative:notatnik_api\\dtos\\updatenote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|c:\\users\\vlady\\source\\repos\\notatnik_api\\notatnik_api\\dtos\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,8 +39,20 @@
       "RelativeMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|solutionrelative:notatnik_api\\migrations\\20251203155428_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|c:\\users\\vlady\\source\\repos\\notatnik_api\\notatnik_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|solutionrelative:notatnik_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|c:\\users\\vlady\\source\\repos\\notatnik_api\\notatnik_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|solutionrelative:notatnik_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|c:\\users\\vlady\\source\\repos\\notatnik_api\\notatnik_api\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|solutionrelative:notatnik_api\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|c:\\users\\vlady\\source\\repos\\notatnik_api\\notatnik_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD83EA7F-7817-4A61-ACF0-603F6087321D}|Notatnik_Api\\Notatnik_Api.csproj|solutionrelative:notatnik_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +70,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\Notatnik_Api\\Notatnik_Api\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "Notatnik_Api\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\vlady\\source\\repos\\Notatnik_Api\\Notatnik_Api\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "Notatnik_Api\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T11:18:07.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\Notatnik_Api\\Notatnik_Api\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Notatnik_Api\\Controllers\\AuthController.cs",
@@ -74,8 +91,7 @@
               "RelativeToolTip": "Notatnik_Api\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAAFAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T15:25:49.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T15:25:49.51Z"
             },
             {
               "$type": "Document",
@@ -87,12 +103,11 @@
               "RelativeToolTip": "Notatnik_Api\\DTOs\\NoteDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T15:19:28.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T15:19:28.452Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "UpdateNote.cs",
               "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\Notatnik_Api\\Notatnik_Api\\DTOs\\UpdateNote.cs",
               "RelativeDocumentMoniker": "Notatnik_Api\\DTOs\\UpdateNote.cs",
@@ -100,12 +115,11 @@
               "RelativeToolTip": "Notatnik_Api\\DTOs\\UpdateNote.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T15:18:33.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T15:18:33.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "CreateNote.cs",
               "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\Notatnik_Api\\Notatnik_Api\\DTOs\\CreateNote.cs",
               "RelativeDocumentMoniker": "Notatnik_Api\\DTOs\\CreateNote.cs",
@@ -118,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "RegisterUser.cs",
               "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\Notatnik_Api\\Notatnik_Api\\DTOs\\RegisterUser.cs",
               "RelativeDocumentMoniker": "Notatnik_Api\\DTOs\\RegisterUser.cs",
@@ -126,12 +140,11 @@
               "RelativeToolTip": "Notatnik_Api\\DTOs\\RegisterUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T15:16:27.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T15:16:27.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "LoginUsrer.cs",
               "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\Notatnik_Api\\Notatnik_Api\\DTOs\\LoginUsrer.cs",
               "RelativeDocumentMoniker": "Notatnik_Api\\DTOs\\LoginUsrer.cs",
@@ -139,16 +152,11 @@
               "RelativeToolTip": "Notatnik_Api\\DTOs\\LoginUsrer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T15:13:52.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2025-12-10T15:13:52.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "20251203155428_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\Notatnik_Api\\Notatnik_Api\\Migrations\\20251203155428_InitialCreate.cs",
               "RelativeDocumentMoniker": "Notatnik_Api\\Migrations\\20251203155428_InitialCreate.cs",
@@ -156,12 +164,11 @@
               "RelativeToolTip": "Notatnik_Api\\Migrations\\20251203155428_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T15:54:29.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T15:54:29.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\Notatnik_Api\\Notatnik_Api\\appsettings.json",
               "RelativeDocumentMoniker": "Notatnik_Api\\appsettings.json",
@@ -169,12 +176,11 @@
               "RelativeToolTip": "Notatnik_Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-03T15:40:19.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T15:40:19.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\Notatnik_Api\\Notatnik_Api\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Notatnik_Api\\Data\\AppDbContext.cs",
@@ -182,12 +188,11 @@
               "RelativeToolTip": "Notatnik_Api\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T15:29:07.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T15:29:07.426Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Note.cs",
               "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\Notatnik_Api\\Notatnik_Api\\Models\\Note.cs",
               "RelativeDocumentMoniker": "Notatnik_Api\\Models\\Note.cs",
@@ -195,12 +200,11 @@
               "RelativeToolTip": "Notatnik_Api\\Models\\Note.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T15:19:00.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T15:19:00.156Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\Notatnik_Api\\Notatnik_Api\\Models\\User.cs",
               "RelativeDocumentMoniker": "Notatnik_Api\\Models\\User.cs",
@@ -208,18 +212,17 @@
               "RelativeToolTip": "Notatnik_Api\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T15:17:41.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T15:17:41.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\Notatnik_Api\\Notatnik_Api\\Program.cs",
               "RelativeDocumentMoniker": "Notatnik_Api\\Program.cs",
               "ToolTip": "C:\\Users\\vlady\\source\\repos\\Notatnik_Api\\Notatnik_Api\\Program.cs",
               "RelativeToolTip": "Notatnik_Api\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAADMAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABEAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T15:15:56.842Z",
               "EditorCaption": ""
